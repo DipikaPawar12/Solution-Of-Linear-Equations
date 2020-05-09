@@ -1,0 +1,37 @@
+//Main File... First find solution the equation than find null space for the same
+
+Note: Here we are not taking augmented matrix... But Coefficient Matrix and Solution matrix
+and finding null space for cefficient matrix only
+
+
+//Samle input-output
+/*Enter No. Rows:
+3
+Enter No. of Columns:
+4
+Enter coefficients Row vise:
+1 2 3 4
+2 3 1 2
+1 2 3 4
+Enter solutions as b:
+1 
+2
+3
+Rank Of The Matrix:2
+RREF:
+1.000000 0.000000 -7.000000 -8.000000 |1.000000
+-0.000000 1.000000 5.000000 6.000000 |-0.000000
+0.000000 0.000000 0.000000 0.000000 |2.000000
+Solution doesn't exist...
+Null Space contains vectors multiple of:
+7.000000 8.000000
+-5.000000 -6.000000
+1.000000 0.000000
+0.000000 1.000000*/
+
+
+x +y + z = 4
+
+x + y + z = 3
+3x + 5y + 2z = 10
+x + y - z = 2
